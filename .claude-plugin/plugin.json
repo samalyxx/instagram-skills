@@ -1,0 +1,14 @@
+{
+  "name": "instagram-skills",
+  "description": "Twelve draft-first Instagram workflows for captions, carousels, Reels concepts, Stories, and community engagement.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Instagram Skills contributors"
+  },
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "content-operations",
+    "agent-skills"
+  ]
+}

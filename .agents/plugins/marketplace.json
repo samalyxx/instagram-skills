@@ -1,0 +1,14 @@
+{
+  "name": "instagram-skills",
+  "owner": {
+    "name": "Instagram Skills contributors"
+  },
+  "plugins": [
+    {
+      "name": "instagram-skills",
+      "source": "./.codex-plugin",
+      "description": "Twelve draft-first Instagram workflows for captions, carousels, Reels concepts, Stories, and community engagement.",
+      "version": "1.0.0"
+    }
+  ]
+}
